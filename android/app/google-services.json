@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35664684988",
+    "project_id": "chat-ads-f3347",
+    "storage_bucket": "chat-ads-f3347.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35664684988:android:70d4e3155e07237bf46db9",
+        "android_client_info": {
+          "package_name": "com.example.chat_ads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrx7Cp2zmT_qQBkqWD_JEXh0pG8ip5udg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
