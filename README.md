@@ -36,7 +36,7 @@ git clone https://github.com/almeidaluciana/chat-ads.git
 Acesse a pasta do projeto:
 
 ```sh
-cd todo_app
+cd chat-ads
 ```
 
 Baixe as dependências do Flutter:
